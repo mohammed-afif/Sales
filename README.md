@@ -63,8 +63,8 @@ Tools : Excel , PowerBi , Dax , M language
 
 Check out the interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMTRhNjMxZGQtYzBjZS00ZTVlLTg2M2ItZGU1MmNjODMxYWYwIiwidCI6ImYwODM1ZmUyLTM5YzEtNDk4ZS1hMTkyLWEzODA2NzFiZDNjYyIsImMiOjl9
 
-https://github.com/mohammed-afif/Sales/assets/79763625/a15d6e87-b42d-4354-97f5-17f775b26589
+https://github.com/mohammed-afif/Sales/assets/79763625/267fd936-8f8d-46cf-abd8-f635f2d82892
 
-![Screenshot (361)](https://github.com/mohammed-afif/Sales/assets/79763625/5069f16b-1957-4454-8636-230549061599)
+![Screenshot (361)](https://github.com/mohammed-afif/Sales/assets/79763625/3250edc0-a5c0-41bd-ac90-a0ab9d0b6689)
 
-![Screenshot (362)](https://github.com/mohammed-afif/Sales/assets/79763625/6a956ad4-4f2d-4c56-8ecc-65189fd29713)
+![Screenshot (362)](https://github.com/mohammed-afif/Sales/assets/79763625/b7727f18-40d1-4f36-a04c-cd67331ac9b2)
