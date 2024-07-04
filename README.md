@@ -1,4 +1,4 @@
-# Sales_
+# Sales
 
 🚀 Discover My Sales Analysis Dashboard! 📊
 I have harnessed the power of Power BI to transform raw sales data into actionable insights.
